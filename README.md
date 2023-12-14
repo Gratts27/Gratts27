@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Swaraj!
-- 👀 I’m interested in React Native, Node js and Automation
-- 🌱 I’m currently learning React
+- 👀 I’m interested in React, React Native, Node js and Automation
 - 📫 You can reach me at www.linkedin.com/in/swaraj-chawathe 
 
 <!---
